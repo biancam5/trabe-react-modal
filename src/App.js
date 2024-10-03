@@ -26,7 +26,8 @@ function App() {
         onClose={handleCloseModal}
         confirmClose={confirmCloseModal}
       >
-        <p>We like technology, open source and simple solutions.</p>
+        <p>We are a software development company. We are in A Coruña (Spain).
+          We like technology, open source and simple solutions.</p>
       </Modal>
     </div>
   );
